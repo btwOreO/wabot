@@ -7,6 +7,8 @@ node_modules
 /.idea
 LICENSE
 yarn.lock
+bot.db
+baileys_auth_info
 
 # Log files
 npm-debug.log*
